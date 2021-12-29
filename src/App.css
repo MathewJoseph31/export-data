@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+}
+
+.btnExportCsv {
+  background: transparent url("images/csv-autofetch.svg") no-repeat center top;
+  background-size: 80px;
+  /* background: url("images/mathew.jpg") no-repeat;*/
+  cursor: pointer;
+  width: 80px;
+  height: 80px;
+  border-style: groove;
+  box-shadow: gray 2px 2px;
+  margin-left: 20px;
+}
+
+.btnExportXlsx {
+  background: transparent url("images/xlsx.svg") no-repeat center top;
+  background-size: 70px 80px;
+  cursor: pointer;
+  width: 80px;
+  height: 80px;
+  border-style: groove;
+  box-shadow: gray 2px 2px;
+  margin-left: 20px;
+}
